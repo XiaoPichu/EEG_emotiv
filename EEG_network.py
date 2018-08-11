@@ -3,7 +3,7 @@
 """
 Created on Sun July 10 16:41 2018
 
-@author: QWQ
+@author: crunch
 
 EEG_LSTM
 请不要用中文命名目录，中文目录中看不到任何图形
