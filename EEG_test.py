@@ -9,7 +9,7 @@ import numpy as np
 """
 Created on Sun July 10 16:41 2018
 
-@author: QWQ
+@author: crunch
 
 测试文件
 .meta文件保存了当前图结构
