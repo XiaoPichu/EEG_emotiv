@@ -3,7 +3,7 @@
 """
 Created on Sun July 10 16:41 2018
 
-@author: QWQ
+@author: crunch
 
 训练流程
 """
